@@ -1,0 +1,14 @@
+{
+  "name": "enigma",
+  "version": "1.0.0",
+  "description": "Enigman helps you encrypt and  decrypt text ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nde Lucien",
+  "license": "ISC",
+  "dependencies": {
+    "qr-image": "^3.2.0"
+  }
+}
